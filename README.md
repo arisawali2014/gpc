@@ -7,5 +7,5 @@ PAKE HP? PAKAI TERMUX
 
 - TULIS "pkg install php git"
 - TULIS "git clone https://github.com/darkfb/gpc"
-- TULIS "cd GPC"
+- TULIS "cd gpc"
 - TULIS "php gpc.php"
