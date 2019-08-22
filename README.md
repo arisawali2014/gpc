@@ -5,7 +5,7 @@ SIAPKAN DULU SALDO GOPAY DI AKUN GOJEK LOE YA, BWAT BELI DISKON GPC DI JD.ID DEN
 
 PAKE HP? PAKAI TERMUX
 
-TULIS "pkg install php git"
-TULIS "git clone https://github.com/darkfb/gpc"
-TULIS "cd GPC"
-TULIS "php gpc.php"
+- TULIS "pkg install php git"
+- TULIS "git clone https://github.com/darkfb/gpc"
+- TULIS "cd GPC"
+- TULIS "php gpc.php"
